@@ -15,3 +15,4 @@
 ## SUBMISSIONS
 #### 🎄DAY 2: [Style a Colorful Button](./submissions/day_02/README.md).
 #### 🎄DAY 3: [Divide Candy](./submissions/day_03/README.md).
+#### 🎄DAY 4: [AI Christmas Joke Generator](./submissions/day_04/README.md).
