@@ -1,0 +1,72 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1, h2 {
+    font-family: 'Mountains of Christmas', serif;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+.wishlist {
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 3px solid #fff;
+    border: 5px solid transparent;
+    border-image: linear-gradient(to right, #ff0000, #00ff00, #0000ff) 1;
+    border-image-slice: 1;
+}
+
+.gift {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.gift > p {
+    flex: 1;
+}
+
+.gift--name {
+    font-weight: bold;
+}
+
+.gift--description,
+.gift--link {
+    font-size: 90%;
+}
+
+.gift--link {
+    background-color:gold;
+    color: #000;
+    padding: 7px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+/* MEDIA QUERIES */
+@media screen and (max-width: 670px) { 
+    body {
+        padding: 10px 30px;
+    }
+    .gift {
+        gap: 5px;
+    }
+    .gift--name {
+        font-size: 0.75rem;
+    }
+    .gift--description, 
+    .gift--link {
+        font-size: 0.6rem;
+    }
+}

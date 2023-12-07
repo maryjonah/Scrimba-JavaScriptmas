@@ -19,3 +19,4 @@
 #### 🎄DAY 4: [AI Christmas Joke Generator](./submissions/day_04/README.md).
 #### 🎄DAY 5: No submission
 #### 🎄DAY 6: [Secret Santa](./submissions/day_06/README.md).
+#### 🎄DAY 7: [Xmas present wishlist](./submissions/day_07/README.md).
