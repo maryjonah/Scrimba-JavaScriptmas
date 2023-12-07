@@ -13,6 +13,9 @@
 3. For html and css submissions, you can double click the html file and the work is opened in a browser.
 
 ## SUBMISSIONS
+#### 🎄DAY 1: No submission
 #### 🎄DAY 2: [Style a Colorful Button](./submissions/day_02/README.md).
 #### 🎄DAY 3: [Divide Candy](./submissions/day_03/README.md).
 #### 🎄DAY 4: [AI Christmas Joke Generator](./submissions/day_04/README.md).
+#### 🎄DAY 5: No submission
+#### 🎄DAY 6: [Secret Santa](./submissions/day_06/README.md).
