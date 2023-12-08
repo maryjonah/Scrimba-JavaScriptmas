@@ -1,0 +1,50 @@
+html, body {
+    margin: 0;
+    padding: 20px;
+}
+
+:root {
+    --progressbar-bg: lightgrey;
+    --start: red;
+    --middle: blue;
+    --finish: green;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.progress-bar {
+    width: 500px;
+    height: 30px;
+    background: var(--progressbar-bg);
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+}
+
+.progress-status {
+    width: 0%;
+    height: 100%;
+    animation: runBar 4s linear infinite;
+}
+
+
+@keyframes runBar {
+    0%, 100% {
+      width: 0;
+      background-color: var(--start);
+    }
+    50% {
+      background-color: var(--middle);
+    }
+    51%, 100% {
+      width: 100%;
+      background-color: var(--finish);
+    }
+  }
+
+
