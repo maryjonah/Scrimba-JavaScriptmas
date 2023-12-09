@@ -21,3 +21,4 @@
 #### 🎄DAY 6: [Secret Santa](./submissions/day_06/README.md).
 #### 🎄DAY 7: [Xmas present wishlist](./submissions/day_07/README.md).
 #### 🎄DAY 8: [Animated Progress Bar](./submissions/day_08/README.md).
+#### 🎄DAY 9: [AI Christmas E-card Generator](https://scrimba.com/learn/javascriptmas/-day-9-ai-christmas-e-card-generator-co761486894fe3c76c9ed2dba).
