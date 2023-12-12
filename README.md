@@ -24,3 +24,4 @@
 #### 🎄DAY 9: [AI Christmas E-card Generator](https://scrimba.com/learn/javascriptmas/-day-9-ai-christmas-e-card-generator-co761486894fe3c76c9ed2dba).
 #### 🎄DAY 10: [Rockin' Around](./submissions/day_10/README.md).
 #### 🎄DAY 11: No submission
+#### 🎄DAY 12: [Santa's Gift Sorter](./submissions/day_12/README.md).
