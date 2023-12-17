@@ -1,0 +1,46 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --bg-word: #5134ff;
+}
+
+body {
+    background: green;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    display: flex;
+    color: white;
+}
+
+
+span::before {
+    content: "Netflix";
+    padding: 10px;
+    margin-left: 3px;
+    animation: text-replace infinite 3s;
+    background: var(--bg-word);
+    border-radius: 5px;
+}
+
+@keyframes text-replace {
+    35% {
+        content: "to sleep";
+    }
+
+    70% {
+        content: "theatre";
+    }
+
+    100% {
+        content: "think";
+    }
+}
