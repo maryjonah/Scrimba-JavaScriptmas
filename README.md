@@ -30,3 +30,4 @@
 #### 🎄DAY 15: [Archery Traget](./submissions/day_15/README.md).
 #### 🎄DAY 16: [Naughty list, nice list](./submissions/day_16/README.md).
 #### 🎄DAY 17: [Word Carousel](./submissions/day_17/README.md).
+#### 🎄DAY 18: [AI Alt Text Generator](./submissions/day_18/README.md).
