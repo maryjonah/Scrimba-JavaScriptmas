@@ -2,7 +2,8 @@
 
 #### Solution
 
-1. Find solution hosted on **[Scrimba](https://scrimba.com/learn/javascriptmas/-day-20-save-santa-cmGBzyfQ)**
+1. Download the files: `index.html and index.js`
+
 
 #### Output:
 ![The output](../../assets/day-20-submission.gif)
