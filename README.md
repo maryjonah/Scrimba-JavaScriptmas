@@ -34,3 +34,4 @@
 #### 🎄DAY 19: [Debug Jingle Words](./submissions/day_19/README.md).
 #### 🎄DAY 20: [Save Santa](./submissions/day_20/README.md).
 #### 🎄DAY 21: [Expanding Search Bar](./submissions/day_21/README.md).
+#### 🎄DAY 22: [Gift App](./submissions/day_22/README.md).
