@@ -35,3 +35,4 @@
 #### 🎄DAY 20: [Save Santa](./submissions/day_20/README.md).
 #### 🎄DAY 21: [Expanding Search Bar](./submissions/day_21/README.md).
 #### 🎄DAY 22: [Gift App](./submissions/day_22/README.md).
+#### 🎄DAY 24: [Christmas Tree Lights](./submissions/day_24/README.md).
